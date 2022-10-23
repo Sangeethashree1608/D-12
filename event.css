@@ -1,0 +1,39 @@
+.image{
+    border: 1px black solid;
+    padding-top: 30px;
+    width: 80px;
+    height: 100px;
+    background-color: rgb(223, 223, 248);
+    border-radius: 50%;
+    margin: 7px;
+    
+}
+.smbox{
+    margin-top: 40px;
+    border: 2px black solid;
+    height: 200px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.exsmbox{
+padding-top: 20px;
+}
+
+h4{
+    text-align: center;
+    border: 2px black solid;
+}
+
+.container{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.imgbox{
+    border: 2px black solid;
+    margin-left: 10px; 
+    margin-bottom: 5px;
+}
+
